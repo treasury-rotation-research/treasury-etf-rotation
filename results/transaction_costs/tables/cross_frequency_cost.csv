@@ -1,0 +1,8 @@
+Frequency,Rebalancing_Periods,Periods_With_Trades,Cumulative_Turnover_pct,Total_Cost_Dollar,CAGR_Gross_pct,CAGR_Net_pct,Cost_Drag_CAGR_bps,Net_vs_BuyHold_pct,Beats_BuyHold
+Annual,18,10,700.0,0.35,3.09,3.07,1.5,0.7,Yes
+Semi-Annual,36,22,1400.0,0.71,3.53,3.5,2.9,1.2,Yes
+Quarterly,72,33,2200.0,1.17,3.34,3.3,4.5,1.03,Yes
+Monthly,216,104,7500.0,3.39,2.16,2.01,15.0,-0.24,No
+Bi-Weekly,471,248,16800.0,8.31,3.12,2.78,33.7,0.54,Yes
+Weekly,940,504,32750.0,14.5,2.57,1.92,65.2,-0.32,No
+Daily,6575,2592,169450.0,59.78,3.03,-0.31,334.0,-2.55,No

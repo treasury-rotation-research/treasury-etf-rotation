@@ -1,0 +1,13 @@
+Frequency,Strategy,Mean,Std,CV_pct,Min,Max,Range
+Annual,Winners,176.19,21.84,12.4,146.95,212.51,65.56
+Annual,Median,179.14,9.85,5.5,165.68,192.96,27.28
+Annual,Losers,119.99,14.29,11.91,99.27,148.49,49.22
+Annual,BuyHold_2,156.5,4.19,2.68,148.92,161.61,12.69
+Semi-Annual,Winners,147.66,27.11,18.36,120.94,205.04,84.1
+Semi-Annual,Median,170.07,14.0,8.23,153.02,199.9,46.88
+Semi-Annual,Losers,154.48,26.23,16.98,114.1,189.59,75.49
+Semi-Annual,BuyHold_2,156.94,4.56,2.91,148.92,162.6,13.68
+Quarterly,Winners,172.02,27.14,15.78,131.99,208.98,76.99
+Quarterly,Median,181.47,11.35,6.26,163.69,198.81,35.12
+Quarterly,Losers,123.23,17.38,14.1,97.76,142.38,44.62
+Quarterly,BuyHold_2,156.94,4.56,2.91,148.92,162.6,13.68

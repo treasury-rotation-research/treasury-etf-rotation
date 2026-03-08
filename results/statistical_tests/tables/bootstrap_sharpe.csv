@@ -1,0 +1,10 @@
+Frequency,Strategy,Sharpe_Strategy,Sharpe_BM,Sharpe_Diff,Boot_Mean,CI_Lower,CI_Upper,Pct_Positive,Significant_5pct
+Annual,Winners,0.2151,0.331,-0.1159,-0.1663,-0.6519,0.3708,30.6,No
+Annual,Median,0.3316,0.331,0.0006,-0.0404,-0.2813,0.1055,44.4,No
+Annual,Losers,0.1281,0.331,-0.2029,-0.1958,-0.4583,0.0682,7.8,No
+Semi-Annual,Winners,0.1956,0.423,-0.2274,-0.237,-0.4568,-0.0252,1.3,Yes
+Semi-Annual,Median,0.5454,0.423,0.1225,0.1079,-0.0701,0.2592,89.2,No
+Semi-Annual,Losers,0.233,0.423,-0.1899,-0.2135,-0.6279,0.1379,13.3,No
+Quarterly,Winners,0.1892,0.3979,-0.2087,-0.2209,-0.5639,0.1172,10.0,No
+Quarterly,Median,0.4575,0.3979,0.0596,0.0532,-0.1154,0.2072,73.8,No
+Quarterly,Losers,0.1954,0.3979,-0.2025,-0.2006,-0.4055,0.0066,3.0,No

@@ -1,0 +1,8 @@
+Strategy,Final_Value,CAGR_pct,Volatility_pct,Sharpe_Ratio,Max_Drawdown_pct
+Winners (Gross),133.84,1.57,10.51,0.2,-23.46
+Winners (Net),132.74,1.52,10.51,0.196,-23.53
+Median (Gross),183.54,3.42,6.52,0.549,-11.59
+Median (Net),182.64,3.39,6.52,0.545,-11.65
+Losers (Gross),132.32,1.5,7.34,0.238,-18.88
+Losers (Net),131.42,1.46,7.34,0.233,-18.97
+Buy & Hold,148.92,2.17,5.45,0.423,-15.06

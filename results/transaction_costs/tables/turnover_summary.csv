@@ -1,0 +1,4 @@
+Strategy,Total_Periods,Periods_With_Trades,Trade_Frequency_pct,Avg_Turnover_Per_Period,Cumulative_Turnover,Total_Cost_Dollar
+Winners,36,26,72.2,65.3,2350.0,0.9954
+Median,36,22,61.1,38.9,1400.0,0.7113
+Losers,36,21,58.3,54.2,1950.0,0.9345

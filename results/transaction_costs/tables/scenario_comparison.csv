@@ -1,0 +1,4 @@
+Scenario,Winners_Final_Gross,Winners_Final_Net,Winners_CAGR_Gross,Winners_CAGR_Net,Winners_Cost_Drag,Median_Final_Gross,Median_Final_Net,Median_CAGR_Gross,Median_CAGR_Net,Median_Cost_Drag,Losers_Final_Gross,Losers_Final_Net,Losers_CAGR_Gross,Losers_CAGR_Net,Losers_Cost_Drag,BuyHold_Final,BuyHold_CAGR
+Low (0.5×),133.84,133.29,1.68,1.66,0.55,183.54,183.09,3.53,3.52,0.45,132.32,131.87,1.61,1.59,0.45,148.92,2.3
+Base (1×),133.84,132.74,1.68,1.63,1.1,183.54,182.64,3.53,3.5,0.9,132.32,131.42,1.61,1.57,0.9,148.92,2.3
+High (2×),133.84,131.65,1.68,1.58,2.18,183.54,181.75,3.53,3.47,1.79,132.32,130.53,1.61,1.53,1.79,148.92,2.3

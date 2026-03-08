@@ -1,0 +1,13 @@
+Frequency,Strategy,N,Sharpe_Ann,AR1_rho,LjungBox_Q1,LjungBox_p,AC_Present,Lo_SE,Lo_t,Lo_p,Significant_5pct
+Annual,Winners,17,0.2151,-0.0569,0.045,0.8313,No,0.2321,0.9268,0.3678,No
+Annual,Median,17,0.3316,0.0743,0.102,0.7496,No,0.2674,1.2402,0.2328,No
+Annual,Losers,17,0.1281,-0.0518,0.054,0.816,No,0.2313,0.5539,0.5873,No
+Annual,BuyHold,17,0.331,0.0411,0.03,0.8628,No,0.259,1.2779,0.2195,No
+Semi-Annual,Winners,35,0.1956,-0.16,0.908,0.3407,No,0.2048,0.9554,0.3461,No
+Semi-Annual,Median,35,0.5454,-0.0574,0.111,0.7387,No,0.2349,2.3218,0.0264,Yes
+Semi-Annual,Losers,35,0.233,-0.0812,0.181,0.6704,No,0.2221,1.0492,0.3015,No
+Semi-Annual,BuyHold,35,0.423,-0.043,0.058,0.8091,No,0.2345,1.8038,0.0801,No
+Quarterly,Winners,71,0.1892,-0.0768,0.432,0.5109,No,0.2204,0.8585,0.3936,No
+Quarterly,Median,71,0.4575,0.0001,0.0,0.9992,No,0.2405,1.9026,0.0612,No
+Quarterly,Losers,71,0.1954,-0.037,0.101,0.7502,No,0.2293,0.8519,0.3972,No
+Quarterly,BuyHold,71,0.3979,0.0104,0.008,0.929,No,0.2421,1.6432,0.1048,No

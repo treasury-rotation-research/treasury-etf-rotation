@@ -1,0 +1,10 @@
+Frequency,Strategy,N,NW_Lag,Mean_Excess_pct,NW_t,NW_p,CI_Lower_pct,CI_Upper_pct,Significant_5pct,Plain_t_p,Wilcoxon_p,HAC_Engine
+Annual,Winners,17,2,-0.0656,-0.053,0.9577,-2.4925,2.3613,No,0.9625,0.7467,statsmodels
+Annual,Median,17,2,0.703,1.0808,0.2798,-0.5718,1.9777,No,0.3644,0.1901,statsmodels
+Annual,Losers,17,2,-0.4967,-0.3166,0.7516,-3.5714,2.5781,No,0.7626,0.8176,statsmodels
+Semi-Annual,Winners,35,3,-0.2474,-0.198,0.8431,-2.697,2.2021,No,0.8681,0.7038,statsmodels
+Semi-Annual,Median,35,3,1.2524,2.116,0.0343,0.0924,2.4125,Yes,0.0748,0.0557,statsmodels
+Semi-Annual,Losers,35,3,-0.5928,-0.496,0.6199,-2.9353,1.7497,No,0.6483,0.6918,statsmodels
+Quarterly,Winners,71,3,-0.5344,-0.4475,0.6545,-2.8747,1.8059,No,0.7043,0.521,statsmodels
+Quarterly,Median,71,3,1.1393,1.6664,0.0956,-0.2007,2.4794,No,0.1265,0.0468,statsmodels
+Quarterly,Losers,71,3,-0.2036,-0.1493,0.8813,-2.8776,2.4704,No,0.8991,0.9224,statsmodels
